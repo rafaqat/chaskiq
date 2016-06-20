@@ -366,7 +366,7 @@ a,a:hover {
 }
 
 .alert-error{
- @extend .alert-danger !optional;
+ @extend .alert-info !optional;
 
 }
 

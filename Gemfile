@@ -15,5 +15,5 @@ gem 'eventmachine'
 gem "rainbows"
 gem 'wicked', require: true
 gem 'sinatra', :require => nil
-gem "mysql2"
+#gem "mysql2" Gem should not have dependecy on a DB - thats what active record is in the app
 gem "web-console"

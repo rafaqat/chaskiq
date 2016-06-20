@@ -263,7 +263,6 @@ GEM
     minitest (5.5.1)
     multi_json (1.11.0)
     mustache (1.0.2)
-    mysql2 (0.3.18)
     net-scp (1.2.1)
       net-ssh (>= 2.6.5)
     net-ssh (2.9.2)
@@ -401,7 +400,6 @@ DEPENDENCIES
   eventmachine
   factory_girl
   factory_girl_rails
-  mysql2
   pry
   rainbows
   rspec
@@ -413,4 +411,4 @@ DEPENDENCIES
   wicked
 
 BUNDLED WITH
-   1.10.6
+   1.12.5
